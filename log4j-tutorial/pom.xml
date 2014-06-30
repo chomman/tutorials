@@ -6,5 +6,6 @@
   <packaging>pom</packaging>
   <modules>
   	<module>1-hello-world</module>
+  	<module>2-propertiest-setup</module>
   </modules>
 </project>
